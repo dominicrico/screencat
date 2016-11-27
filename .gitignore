@@ -4,3 +4,4 @@ node_modules
 ScreenCat.app
 ScreenCat.zip
 .sass-cache
+remote-bundle.js
